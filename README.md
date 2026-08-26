@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-08-26:** Added Q1 HE 8K files.
 - **2026-08-13:** Added B2 Pro files.
 - **2026-08-13:** Added B1 Pro files.
 - **2026-08-13:** Added K2 Ultra 8K files.
@@ -108,7 +109,7 @@ If you're new, begin with one of these paths:
 | **Q Series** | Keyboard | Q0 Plus, Q1–Q12, Q60, Q65 | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro (10 models) | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
 | **Q HE Series** | Hall Effect | Q0 HE, Q1 HE, Q2 HE, Q3 HE, Q4 HE, Q5 HE, Q6 HE, Q12 HE | Published files for selected models; newer Q HE folders also include README/model pages for future CAD uploads |
-| **Q HE 8K Series** | Hall Effect | Q1 HE 8K, Q2 HE 8K, Q3 HE 8K, Q5 HE 8K, Q6 HE 8K, Q16 HE 8K | README/model pages prepared for future CAD uploads |
+| **Q HE 8K Series** | Hall Effect | Q1 HE 8K, Q2 HE 8K, Q3 HE 8K, Q5 HE 8K, Q6 HE 8K, Q16 HE 8K | Published files for Q1 HE 8K; README/model pages prepared for the remaining Q HE 8K models |
 | **Q Max Series** | Keyboard | Q0 Max, Q1 Max, Q2 Max, Q3 Max, Q5 Max, Q6 Max, Q8 Max, Q10 Max, Q12 Max, Q13 Max, Q14 Max, Q15 Max | Published CAD files for Q6 Max; README/model pages prepared for the others |
 | **Q Ultra 8K Series** | Keyboard | Q1 Ultra 8K, Q3 Ultra 8K, Q5 Ultra 8K, Q6 Ultra 8K, Q11 Ultra 8K, Q13 Ultra 8K | Published files for Q3, Q6, and Q11 Ultra 8K; README/model pages prepared for the others |
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
@@ -142,7 +143,7 @@ Q-Series/
 Q-HE-Series/
   Q0 HE/                — Hall Effect numpad files alongside Q1, Q2, Q3, Q4, Q5, Q6, and Q12 HE models
 Q-HE-8K-Series/
-  Q1 HE 8K/             — README and product page reference, ready for future CAD uploads alongside Q2, Q3, Q5, Q6, and Q16 HE 8K
+  Q1 HE 8K/             — 75% wired Hall Effect 8K files with plate, PCB, top case, bottom case, full model, and product page reference
 Q-Pro-Series/
   Q1 Pro/               — Wireless Q-series hardware files across 10 models
 Q-Max-Series/
