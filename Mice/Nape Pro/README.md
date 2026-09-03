@@ -4,13 +4,14 @@
 
 **Product page:** [Nape Pro](https://costory.jp/cf-published-sku-groups/1254312814)
 
-![Nape Pro](https://cos-img-prod.s3.ap-northeast-1.amazonaws.com/images/9e540d59-ccef-447a-8e43-918774e83977/%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%9C%BA%E6%99%AF%E7%99%BD%E8%89%B2%E6%B7%A1%E8%93%9D%E8%89%B2%E7%90%83.jpg)
+![Keychron Nape Pro](https://cos-img-prod.s3.ap-northeast-1.amazonaws.com/images/9e540d59-ccef-447a-8e43-918774e83977/%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%9C%BA%E6%99%AF%E7%99%BD%E8%89%B2%E6%B7%A1%E8%93%9D%E8%89%B2%E7%90%83.jpg)
 
 ## Included Files
 
 | File | Description |
 |---|---|
 | `Nape-Pro-20260203.stp` | Complete 3D CAD model |
+| `Nape-Pro-20260903.dwg` | 2D CAD drawing |
 
 ## Downloads
 
@@ -18,13 +19,15 @@
 
 | File | Download Link |
 |---|---|
-| `Nape-Pro-20260203.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/Nape%20Pro/Nape-Pro-20260203.stp |
+| `Nape-Pro-20260203.stp` | [http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/Nape%20Pro/Nape-Pro-20260203.stp](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/Nape%20Pro/Nape-Pro-20260203.stp) |
+| `Nape-Pro-20260903.dwg` | [http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/Nape%20Pro/Nape-Pro-20260903.dwg](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/Nape%20Pro/Nape-Pro-20260903.dwg) |
 
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |
 |---|---|---|
 | `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
+| `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
 
 ## Links
 
