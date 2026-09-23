@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-09-23:** Added more K5 QMK files.
 - **2026-09-22:** Added J2 HE 8K files.
 - **2026-09-18:** Added G9 HE mouse files.
 - **2026-09-11:** Added K5 Ultra 8K files.
