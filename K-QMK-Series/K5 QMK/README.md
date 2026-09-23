@@ -18,18 +18,41 @@
 | Hot-swap | Yes |
 | Firmware | QMK / Keychron Launcher |
 
-## Repository Status
+## Included Files
 
-CAD files for this model have not been added to this repository yet. This folder is prepared so related hardware design files can be dropped in later.
-
-## Planned File Types
-
-| File Type | Purpose |
+| File | Description |
 |---|---|
-| `stp` / `step` | Case and assembly 3D models |
-| `dwg` | 2D plate and mechanical drawings |
-| `dxf` | Manufacturing-ready 2D geometry when available |
-| `pdf` | Reference drawings and dimension sheets |
+| `K5X_UK_Aluminum_Plate-20230220.dwg` | UK aluminum plate 2D CAD drawing |
+| `K5X_UK_Aluminum_Plate-20230220.pdf` | UK aluminum plate reference drawing |
+| `K5X_UK_Aluminum_Top_Case-20260922.stp` | UK aluminum top case 3D CAD model |
+| `K5X_UK_Bottom_Case-20260922.stp` | UK bottom case 3D CAD model |
+| `K5X_UK_Full-Model-20260922.stp` | UK full keyboard 3D CAD model |
+| `K5X_UK_PCB-20240530.dwg` | UK PCB 2D CAD drawing |
+| `K5X_US_Aluminum_Plate-20230220.dwg` | US aluminum plate 2D CAD drawing |
+| `K5X_US_Aluminum_Plate-20230220.pdf` | US aluminum plate reference drawing |
+| `K5X_US_Aluminum_Top_Case-20260922.stp` | US aluminum top case 3D CAD model |
+| `K5X_US_Bottom_Case-20260922.stp` | US bottom case 3D CAD model |
+| `K5X_US_Full-Model-20260922.stp` | US full keyboard 3D CAD model |
+| `K5X_US_PCB-20240530.dwg` | US PCB 2D CAD drawing |
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `K5X_UK_Aluminum_Plate-20230220.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_UK_Aluminum_Plate-20230220.dwg |
+| `K5X_UK_Aluminum_Plate-20230220.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_UK_Aluminum_Plate-20230220.pdf |
+| `K5X_UK_Aluminum_Top_Case-20260922.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_UK_Aluminum_Top_Case-20260922.stp |
+| `K5X_UK_Bottom_Case-20260922.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_UK_Bottom_Case-20260922.stp |
+| `K5X_UK_Full-Model-20260922.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_UK_Full-Model-20260922.stp |
+| `K5X_UK_PCB-20240530.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_UK_PCB-20240530.dwg |
+| `K5X_US_Aluminum_Plate-20230220.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_US_Aluminum_Plate-20230220.dwg |
+| `K5X_US_Aluminum_Plate-20230220.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_US_Aluminum_Plate-20230220.pdf |
+| `K5X_US_Aluminum_Top_Case-20260922.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_US_Aluminum_Top_Case-20260922.stp |
+| `K5X_US_Bottom_Case-20260922.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_US_Bottom_Case-20260922.stp |
+| `K5X_US_Full-Model-20260922.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_US_Full-Model-20260922.stp |
+| `K5X_US_PCB-20240530.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K5%20QMK/K5X_US_PCB-20240530.dwg |
 
 ## Links
 
