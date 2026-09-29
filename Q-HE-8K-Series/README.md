@@ -1,6 +1,6 @@
 # Q HE 8K Series — Hardware Design Files
 
-> Wired Q-series Hall Effect gaming keyboards with 8K polling, 256 kHz single-key scanning, knob support, and published Q1 HE 8K CAD downloads.
+> Wired Q-series Hall Effect gaming keyboards with 8K polling, 256 kHz single-key scanning, knob support, and published Q1 HE 8K and Q3 HE 8K CAD downloads.
 
 Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) repository.
 
@@ -26,13 +26,14 @@ This series folder currently includes model folders for:
 - [Q6 HE 8K](./Q6%20HE%208K/README.md)
 - [Q16 HE 8K](./Q16%20HE%208K/README.md)
 
-The Q1 HE 8K folder includes published `stp`, `dwg`, `dxf`, and `pdf` downloads. The remaining model folders are ready for future hardware uploads.
+The Q1 HE 8K and Q3 HE 8K folders include published CAD downloads. Available formats across the published files include `stp`, `dwg`, `dxf`, and `pdf`; the remaining model folders are ready for future hardware uploads.
 
 ## Download Files
 
 | File | Description | Format |
 |---|---|---|
 | [Q1 HE 8K files](./Q1%20HE%208K/README.md#downloads) | JP, UK, US, and shared PCB hardware files | STP / DWG / DXF / PDF |
+| [Q3 HE 8K files](./Q3%20HE%208K/README.md#downloads) | US, UK, JP, shared PCB, case, plate, and full-model hardware files | STP / DWG / PDF |
 | **Future CAD assets** | Remaining model folders ready for case, plate, PCB, or full-model releases | STP / DWG / DXF / PDF |
 
 ## Opening the Files
